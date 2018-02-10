@@ -2,7 +2,7 @@
 - test1, failed, pushed with wrong e-mail
 	- was able to push to correct github repos
 - test 2 it worked!
-
+- test 3 woops... apparently I used the wrong e-mail address
 ## Instructions:
 - to have 2nd github account working on same computer:
 1. ssh-keygen -t rsa -C "your-email-address"
