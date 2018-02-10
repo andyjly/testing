@@ -36,3 +36,6 @@
     - well if you get `fatal: The current branch master has no upstream branch.`
     - do `git push -u origin master`
 
+## Citing my source
+- https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574
+- it's from Nov 2, 2011 so it's a little outdated, but still mostly the same process with some changes I listed above
