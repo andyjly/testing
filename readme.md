@@ -33,6 +33,6 @@
 5. Let's now go to our new git account and create a new project directory e.g. "testing"
 6. Now back in command line we do `git remote add origin git@github-andyjly:andyjly/testing.git`
 7. `git push origin master` and now go to your new git website and should be updated with your new e-mail
-
-
+    - well if you get `fatal: The current branch master has no upstream branch.`
+    - do `git push -u origin master`
 
